@@ -7,21 +7,21 @@ $dischi = [
     "title" => "New jersey",
     "author" => "Bon jovi",
     "year" => "1998",
-    "poster" => "",
+    "poster" => "https://picsum.photos/200",
     "genre" => "Rock"
   ],
   [
     "title" => "live at wembly",
     "author" => "Queen",
     "year" => "1992",
-    "poster" => "",
+    "poster" => "https://picsum.photos/200",
     "genre" => "Rock"
   ],
   [
     "title" => "ten's summoner's tales",
     "author" => "Sting",
     "year" => "1998",
-    "poster" => "",
+    "poster" => "https://picsum.photos/200",
     "genre" => "Pop"
   ],
   
