@@ -1,0 +1,28 @@
+header {
+    width: 100vw;
+    height: 7vh;
+
+    background-color: rgb(45, 56, 67);
+}
+
+section.content {
+    width: 100vw;
+    min-height: 93vh;
+
+    background-color: rgb(30, 45, 59);
+}
+
+
+.card {
+    background-color: rgb(46, 58, 70);
+}
+
+.card h5 {
+    color:white;
+    font-size: 1.5rem;
+}
+
+.card h6 {
+    color: rgb(126, 125, 125);
+    margin-bottom: .2rem;
+}
