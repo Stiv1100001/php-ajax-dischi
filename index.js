@@ -4,7 +4,7 @@ const app = new Vue({
     dischi: [],
   }),
   created() {
-    axios.get("/api.php").then((res) => {
+    axios.get("/php-ajax-dischi/api.php").then((res) => {
       this.dischi = res.data;
     });
   },
